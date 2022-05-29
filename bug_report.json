@@ -1,0 +1,11 @@
+{
+"Bug Name":"Application crashes upon clicking the SAVE button while creating a new user",
+"Bug ID":"111",
+"Severity":"HIGH",
+"Priority":"HIGH",
+"Assigned to":"Developer Name",
+"Reported By":"Darya",
+"Reported On":"29/05/22",
+"Status":"Open",
+"Environment":"Google Chrome"
+}
